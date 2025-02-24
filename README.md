@@ -1,7 +1,8 @@
   
 # ATmega128로 배우는 마이크로컨트롤러 프로그래밍
   
- ![ATmega128로 배우는 마이크로컨트롤러 프로그래밍 표지](http://image.yes24.com/momo/TopCate984/MidCate002/98311672.jpg)
+ ![bookcover](https://github.com/user-attachments/assets/71d8344c-2329-4085-b732-dc43ac13207f)
+![ATmega128로 배우는 마이크로컨트롤러 프로그래밍 표지]
   
 **출판사** 제이펍  
 **저자명** 허경용  
