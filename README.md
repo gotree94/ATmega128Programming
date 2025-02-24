@@ -1,7 +1,8 @@
   
 # ATmega128로 배우는 마이크로컨트롤러 프로그래밍
   
- [bookcover](https://github.com/user-attachments/assets/71d8344c-2329-4085-b732-dc43ac13207f)
+![bookcover](https://github.com/user-attachments/assets/f18d5c4a-06ed-4b92-b7c5-972f1d54b933)
+
  
 [ATmega128로 배우는 마이크로컨트롤러 프로그래밍 표지]
   
